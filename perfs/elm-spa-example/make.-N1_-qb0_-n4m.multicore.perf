@@ -1,0 +1,19 @@
+Success! Compiled 93 modules.
+Successfully generated index.html
+
+ Performance counter stats for '/home/antouank/_REPOS_/elm/Elm-Platform/0.18/elm-make/dist/dist-sandbox-aff3f82/build/elm-make/elm-make /home/antouank/_REPOS_/elm-spa-example/src/Main.elm':
+
+       7307.330150      task-clock:u (msec)       #    0.969 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+             8,173      page-faults:u             #    0.001 M/sec                  
+    19,601,177,480      cycles:u                  #    2.682 GHz                      (83.14%)
+     4,052,832,921      stalled-cycles-frontend:u #   20.68% frontend cycles idle     (83.30%)
+     3,542,325,652      stalled-cycles-backend:u  #   18.07% backend cycles idle      (83.22%)
+    28,756,494,989      instructions:u            #    1.47  insn per cycle         
+                                                  #    0.14  stalled cycles per insn  (83.55%)
+     5,284,687,405      branches:u                #  723.204 M/sec                    (83.64%)
+       148,058,734      branch-misses:u           #    2.80% of all branches          (83.44%)
+
+       7.543655400 seconds time elapsed
+

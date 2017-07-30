@@ -1,0 +1,19 @@
+Success! Compiled 93 modules.
+Successfully generated index.html
+
+ Performance counter stats for 'sysconfcpus -n 1 elm-make src/Main.elm':
+
+       6141.937239      task-clock:u (msec)       #    0.962 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+            44,622      page-faults:u             #    0.007 M/sec                  
+    18,947,071,502      cycles:u                  #    3.085 GHz                      (83.34%)
+     4,037,796,826      stalled-cycles-frontend:u #   21.31% frontend cycles idle     (83.09%)
+     3,658,695,190      stalled-cycles-backend:u  #   19.31% backend cycles idle      (83.56%)
+    29,993,828,113      instructions:u            #    1.58  insn per cycle         
+                                                  #    0.13  stalled cycles per insn  (83.32%)
+     5,465,162,794      branches:u                #  889.811 M/sec                    (83.48%)
+       157,639,040      branch-misses:u           #    2.88% of all branches          (83.31%)
+
+       6.385075067 seconds time elapsed
+

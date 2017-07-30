@@ -1,0 +1,19 @@
+Success! Compiled 93 modules.
+Successfully generated index.html
+
+ Performance counter stats for 'elm-make src/Main.elm':
+
+      79915.626991      task-clock:u (msec)       #    8.654 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+            19,604      page-faults:u             #    0.245 K/sec                  
+   126,950,389,288      cycles:u                  #    1.589 GHz                      (83.45%)
+     7,923,279,154      stalled-cycles-frontend:u #    6.24% frontend cycles idle     (83.36%)
+    12,145,502,327      stalled-cycles-backend:u  #    9.57% backend cycles idle      (83.34%)
+    71,578,863,712      instructions:u            #    0.56  insn per cycle         
+                                                  #    0.17  stalled cycles per insn  (83.29%)
+    15,232,077,941      branches:u                #  190.602 M/sec                    (83.28%)
+       368,140,016      branch-misses:u           #    2.42% of all branches          (83.32%)
+
+       9.234079791 seconds time elapsed
+
